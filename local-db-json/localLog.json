@@ -1,0 +1,257 @@
+[
+  {
+    "recipeId": "slowpoke-tail-pepper-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:28:01.277Z"
+  },
+  {
+    "recipeId": "spore-mushroom-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:28:46.437Z"
+  },
+  {
+    "recipeId": "snow-cloak-caesar-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:28:59.883Z"
+  },
+  {
+    "recipeId": "gluttony-potato-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:29:15.855Z"
+  },
+  {
+    "recipeId": "water-veil-tofu-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:29:40.701Z"
+  },
+  {
+    "recipeId": "superpower-extreme-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:29:47.588Z"
+  },
+  {
+    "recipeId": "bean-ham-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:29:58.690Z"
+  },
+  {
+    "recipeId": "snoozy-tomato-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:30:34.170Z"
+  },
+  {
+    "recipeId": "moomoo-caprese-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:30:46.252Z"
+  },
+  {
+    "recipeId": "contrary-chocolate-meat-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:30:52.488Z"
+  },
+  {
+    "recipeId": "overheat-ginger-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:30:58.626Z"
+  },
+  {
+    "recipeId": "immunity-leek-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:31:16.444Z"
+  },
+  {
+    "recipeId": "fancy-apple-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:31:21.555Z"
+  },
+  {
+    "recipeId": "dazzling-apple-cheese-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:31:30.540Z"
+  },
+  {
+    "recipeId": "ninja-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:31:43.678Z"
+  },
+  {
+    "recipeId": "heat-wave-tofu-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:31:56.410Z"
+  },
+  {
+    "recipeId": "greengrass-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:32:20.211Z"
+  },
+  {
+    "recipeId": "calm-mind-fruit-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:32:25.459Z"
+  },
+  {
+    "recipeId": "fury-attack-corn-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:32:40.613Z"
+  },
+  {
+    "recipeId": "cross-chop-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:32:55.122Z"
+  },
+  {
+    "recipeId": "defiant-coffee-dressed-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:33:04.924Z"
+  },
+  {
+    "recipeId": "petal-blizzard-layered-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:33:24.697Z"
+  },
+  {
+    "recipeId": "apple-acid-yogurt-dressed-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:33:33.337Z"
+  },
+  {
+    "recipeId": "luscious-avocado-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:33:48.346Z"
+  },
+  {
+    "recipeId": "bulldoze-guacamole-and-chips",
+    "isRegistered": true,
+    "registeredAt": "2026-09-19T18:33:57.145Z"
+  },
+  {
+    "recipeId": "fancy-apple-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:29:48.630Z"
+  },
+  {
+    "recipeId": "scald-chunky-salad",
+    "isRegistered": true,
+    "registeredAt": "2026-09-21T03:33:35.492Z"
+  },
+  {
+    "recipeId": "grilled-tail-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:30:22.096Z"
+  },
+  {
+    "recipeId": "solar-power-tomato-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:30:34.099Z"
+  },
+  {
+    "recipeId": "dream-eater-butter-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:30:55.590Z"
+  },
+  {
+    "recipeId": "spicy-leek-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:31:14.174Z"
+  },
+  {
+    "recipeId": "egg-bomb-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:31:17.111Z"
+  },
+  {
+    "recipeId": "hearty-cheeseburger-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:31:50.981Z"
+  },
+  {
+    "recipeId": "soft-potato-chowder",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:31:58.501Z"
+  },
+  {
+    "recipeId": "simple-chowder",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:32:11.951Z"
+  },
+  {
+    "recipeId": "beanburger-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:32:18.115Z"
+  },
+  {
+    "recipeId": "mild-honey-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:32:30.274Z"
+  },
+  {
+    "recipeId": "ninja-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:32:38.399Z"
+  },
+  {
+    "recipeId": "drought-katsu-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:32:58.655Z"
+  },
+  {
+    "recipeId": "melty-omelette-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:33:07.198Z"
+  },
+  {
+    "recipeId": "bulk-up-bean-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:33:12.547Z"
+  },
+  {
+    "recipeId": "limber-corn-stew",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:33:37.051Z"
+  },
+  {
+    "recipeId": "inferno-corn-keema-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:33:47.786Z"
+  },
+  {
+    "recipeId": "dizzy-punch-spicy-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:33:55.291Z"
+  },
+  {
+    "recipeId": "hidden-power-perk-up-stew",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:34:14.283Z"
+  },
+  {
+    "recipeId": "cut-sukiyaki-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:34:21.261Z"
+  },
+  {
+    "recipeId": "role-play-pumpkaboo-stew",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:34:26.180Z"
+  },
+  {
+    "recipeId": "overgrow-avocado-gratin",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:34:34.821Z"
+  },
+  {
+    "recipeId": "greengrass-curry-bun",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:34:54.881Z"
+  },
+  {
+    "recipeId": "spore-mushroom-curry",
+    "isRegistered": true,
+    "registeredAt": "2026-09-22T02:35:26.300Z"
+  },
+  {
+    "recipeId": "bounce-curry-udon",
+    "isRegistered": true,
+    "registeredAt": "2026-09-27T16:31:35.460Z"
+  }
+]

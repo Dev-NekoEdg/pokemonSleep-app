@@ -1,0 +1,2078 @@
+[
+  {
+    "id": "mixed-curry",
+    "name": "Mixed Curry",
+    "description": "",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/mixedcurry.png",
+    "ingredients": []
+  },
+  {
+    "id": "fancy-apple-curry",
+    "name": "Fancy Apple Curry",
+    "description": "A simple curry that lets the natural sweetness of its apples shine.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/fancyapplecurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "simple-chowder",
+    "name": "Simple Chowder",
+    "description": "You can really taste the richness of the milk in this simple chowder.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/simplechowder.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "mild-honey-curry",
+    "name": "Mild Honey Curry",
+    "description": "A mild curry containing plenty of honey. Kids gobble it down!",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/mildhoneycurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "beanburger-curry",
+    "name": "Beanburger Curry",
+    "description": "The tender bean patties are the stars of the show in this curry.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/beanburgercurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "hearty-cheeseburger-curry",
+    "name": "Hearty Cheeseburger Curry",
+    "description": "This voluminous curry is large enough to astound even a Snorlax.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/heartycheeseburgercurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "drought-katsu-curry",
+    "name": "\"Drought\" Katsu Curry",
+    "description": "The freshly-fried cutlet has a nice sparkle to it.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/droughtkatsucurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "solar-power-tomato-curry",
+    "name": "\"Solar Power\" Tomato Curry",
+    "description": "A curry made using tomatoes that have turned bright red in the sun.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/solarpowertomatocurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      }
+    ]
+  },
+  {
+    "id": "melty-omelette-curry",
+    "name": "Melty Omelette Curry",
+    "description": "This curry is topped with a masterfully-cooked omelette that simply melts in the mouth.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/meltyomelettecurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "soft-potato-chowder",
+    "name": "Soft Potato Chowder",
+    "description": "A thick chowder made from potatoes boiled until practically melting.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/softpotatochowder.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "bulk-up-bean-curry",
+    "name": "\"Bulk Up\" Bean Curry",
+    "description": "A hearty curry packed with nutrients needed for bulking up.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/bulkupbeancurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      }
+    ]
+  },
+  {
+    "id": "spore-mushroom-curry",
+    "name": "\"Spore\" Mushroom Curry",
+    "description": "A curry that puts you to sleep just as surely as the move Spore.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/sporemushroomcurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "egg-bomb-curry",
+    "name": "\"Egg Bomb\" Curry",
+    "description": "A curry made with oodles of love. Its ingredients are geared toward kids.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/eggbombcurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "limber-corn-stew",
+    "name": "\"Limber\" Corn Stew",
+    "description": "The milk and corn in this creamy stew have a mild, gentle sweetness.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/limbercornstew.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      }
+    ]
+  },
+  {
+    "id": "dizzy-punch-spicy-curry",
+    "name": "\"Dizzy Punch\" Spicy Curry",
+    "description": "A rhythmic one-two punch of sweet and spicy flavors attacks your taste buds, finishing with a hint of bitterness.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/dizzypunchspicycurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "spicy-leek-curry",
+    "name": "Spicy Leek Curry",
+    "description": "The roasted leeks are fragrant and sweet as fruit, perfectly balancing the spicy roux.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/spicyleekcurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      }
+    ]
+  },
+  {
+    "id": "grilled-tail-curry",
+    "name": "Grilled Tail Curry",
+    "description": "The tasty tail elevates the flavor of the curry roux to the next level.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/grilledtailcurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "slowpoke-tail",
+        "name": "Slowpoke Tail",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/slowpoketail.png"
+      }
+    ]
+  },
+  {
+    "id": "dream-eater-butter-curry",
+    "name": "\"Dream Eater\" Butter Curry",
+    "description": "The ingredients in this curry all share a connection to deep sleep.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/dreameaterbuttercurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "ninja-curry",
+    "name": "Ninja Curry",
+    "description": "This tofu curry is said to have been a favorite dish of ninjas.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/ninjacurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 24,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "inferno-corn-keema-curry",
+    "name": "\"Inferno\" Corn Keema Curry",
+    "description": "This curry's infernal spiciness kicks in after the sweetness of the corn.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/infernocornkeemacurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 27,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 24,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      }
+    ]
+  },
+  {
+    "id": "role-play-pumpkaboo-stew",
+    "name": "\"Role Play\" Pumpkaboo Stew",
+    "description": "Not only does this stew look adorable, but its nutritional balance is perfect.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/roleplaypumpkaboostew.png",
+    "ingredients": [
+      {
+        "ingredientId": "plump-pumpkin",
+        "name": "Plump Pumpkin",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/plumppumpkin.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "hidden-power-perk-up-stew",
+    "name": "\"Hidden Power\" Perk-Up Stew",
+    "description": "A chunky tomato stew for a decadent start to your day.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/hiddenpowerperk-upstew.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 23,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      },
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      }
+    ]
+  },
+  {
+    "id": "cut-sukiyaki-curry",
+    "name": "\"Cut\" Sukiyaki Curry",
+    "description": "A salty-sweet curry with a side of roughly cut leeks and a soft-boiled egg.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/cutsukiyakicurry.png",
+    "ingredients": [
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 27,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 26,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 26,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      }
+    ]
+  },
+  {
+    "id": "overgrow-avocado-gratin",
+    "name": "\"Overgrow\" Avocado Gratin",
+    "description": "The rich white sauce and creamy avocado melt together perfectly.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/overgrowavocadogratin.png",
+    "ingredients": [
+      {
+        "ingredientId": "glossy-avocado",
+        "name": "Glossy Avocado",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/glossyavocado.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 41,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 32,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "greengrass-curry-bun",
+    "name": "Greengrass Curry Bun",
+    "description": "A curry bun packed full of Greengrass Isle's goodness. It's crispy on the outside, and chunky on the inside.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/greengrasscurrybun.png",
+    "ingredients": [
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "bounce-curry-udon",
+    "name": "\"Bounce\" Curry Udon",
+    "description": "The burst of flavor from the spices bring excitement, but be careful not to splash curry on yourself.",
+    "type": "curry",
+    "image": "https://www.serebii.net/pokemonsleep/meals/bouncecurryudon.png",
+    "ingredients": [
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 39,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 31,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "mixed-salad",
+    "name": "Mixed Salad",
+    "description": "",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/mixedsalad.png",
+    "ingredients": []
+  },
+  {
+    "id": "fancy-apple-salad",
+    "name": "Fancy Apple Salad",
+    "description": "A simple salad accentuated by a mashed apple dressing.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/fancyapplesalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "bean-ham-salad",
+    "name": "Bean Ham Salad",
+    "description": "This simple salad features ham made from Bean Sausages.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/beanhamsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "snoozy-tomato-salad",
+    "name": "Snoozy Tomato Salad",
+    "description": "The Snoozy Tomatoes in this simple salad are a great aid for sleep.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/snoozytomatosalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "snow-cloak-caesar-salad",
+    "name": "\"Snow Cloak\" Caesar Salad",
+    "description": "A bacon salad topped with a generous snowy sprinkling of cheese.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/snowcloakcaesarsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "heat-wave-tofu-salad",
+    "name": "\"Heat Wave\" Tofu Salad",
+    "description": "A tofu salad covered in bright red spicy sauce.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/heatwavetofusalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      }
+    ]
+  },
+  {
+    "id": "dazzling-apple-cheese-salad",
+    "name": "\"Dazzling\" Apple Cheese Salad",
+    "description": "The simple seasoning keeps the focus on the sublime pairing of ingredients.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/dazzlingapplecheesesalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 3,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "immunity-leek-salad",
+    "name": "\"Immunity\" Leek Salad",
+    "description": "The crisp leeks in this salad do wonders for the immune system.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/immunityleeksalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      }
+    ]
+  },
+  {
+    "id": "fury-attack-corn-salad",
+    "name": "\"Fury Attack\" Corn Salad",
+    "description": "When eating this salad, you should start by attacking the mound of corn.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/furyattackcornsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "moomoo-caprese-salad",
+    "name": "Moomoo Caprese Salad",
+    "description": "A basic salad containing only cheese, tomatoes, and a splash of oil.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/moomoocapresesalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "superpower-extreme-salad",
+    "name": "\"Superpower\" Extreme Salad",
+    "description": "A hefty salad that provides all your daily nutrients at once.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/superpowerextremesalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 3,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      }
+    ]
+  },
+  {
+    "id": "water-veil-tofu-salad",
+    "name": "\"Water Veil\" Tofu Salad",
+    "description": "A salad topped with wobbly cubes of tofu.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/waterveiltofusalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "contrary-chocolate-meat-salad",
+    "name": "\"Contrary\" Chocolate Meat Salad",
+    "description": "The savory sauce and sweet chocolate sauce let you enjoy a mix of flavors.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/contrarychocolatemeatsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "gluttony-potato-salad",
+    "name": "\"Gluttony\" Potato Salad",
+    "description": "This potato salad contains just a hint of flavor from the Fancy Apples.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/gluttonypotatosalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      }
+    ]
+  },
+  {
+    "id": "overheat-ginger-salad",
+    "name": "\"Overheat\" Ginger Salad",
+    "description": "This salad's special ginger dressing warms you through and through.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/overheatgingersalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 17,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "spore-mushroom-salad",
+    "name": "\"Spore\" Mushroom Salad",
+    "description": "A salad rich in minerals that improve the quality of sleep.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/sporemushroomsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 17,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "luscious-avocado-salad",
+    "name": "Luscious Avocado Salad",
+    "description": "The soft ingredients gently crumble in your mouth.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/lusciousavocadosalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "glossy-avocado",
+        "name": "Glossy Avocado",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/glossyavocado.png"
+      },
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      }
+    ]
+  },
+  {
+    "id": "calm-mind-fruit-salad",
+    "name": "\"Calm Mind\" Fruit Salad",
+    "description": "The refreshing sweetness of this fruit salad soothes the soul.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/calmmindfruitsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 21,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      }
+    ]
+  },
+  {
+    "id": "slowpoke-tail-pepper-salad",
+    "name": "Slowpoke Tail Pepper Salad",
+    "description": "The mouth-tinglingly spicy pepper highlights the sweetness of the tail.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/slowpoketailpeppersalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "slowpoke-tail",
+        "name": "Slowpoke Tail",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/slowpoketail.png"
+      }
+    ]
+  },
+  {
+    "id": "cross-chop-salad",
+    "name": "\"Cross Chop\" Salad",
+    "description": "A chopped salad delicately made with fine repeated cuts.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/crosschopsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "greengrass-salad",
+    "name": "Greengrass Salad",
+    "description": "A salad made of fresh vegetables - all harvested on Greengrass Isle.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/greengrasssalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 17,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      }
+    ]
+  },
+  {
+    "id": "ninja-salad",
+    "name": "Ninja Salad",
+    "description": "Ninjas cannot resist the flavor of this tofu salad. It's eaten in a flash!",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/ninjasalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 19,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "petal-blizzard-layered-salad",
+    "name": "\"Petal Blizzard\" Layered Salad",
+    "description": "The sprinkling of egg-fluffy like flower petals-has a delicate texture.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/petalblizzardlayeredsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 17,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      }
+    ]
+  },
+  {
+    "id": "apple-acid-yogurt-dressed-salad",
+    "name": "\"Apple Acid\" Yogurt-Dressed Salad",
+    "description": "The acidity of the apple vinegar and the yogurt make this salad temptingly tasty.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/appleacidyogurt-dressedsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 35,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 23,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "defiant-coffee-dressed-salad",
+    "name": "\"Defiant\" Coffee-Dressed Salad",
+    "description": "A chef worked defiantly to perfect this salad with coffee dressing, tweaking the recipe again and again.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/defiantcoffee-dressedsalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      },
+      {
+        "ingredientId": "bean-sausage",
+        "name": "Bean Sausage",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/beansausage.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      }
+    ]
+  },
+  {
+    "id": "bulldoze-guacamole-and-chips",
+    "name": "\"Bulldoze\" Guacamole and Chips",
+    "description": "You can enjoy the crunchy, aromatic corn chips with the dip's smooth texture.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/bulldozeguacamoleandchips.png",
+    "ingredients": [
+      {
+        "ingredientId": "glossy-avocado",
+        "name": "Glossy Avocado",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/glossyavocado.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "fiery-herb",
+        "name": "Fiery Herb",
+        "quantity": 30,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fieryherb.png"
+      },
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      }
+    ]
+  },
+  {
+    "id": "scald-chunky-salad",
+    "name": "\"Scald\" Chunky Salad",
+    "description": "Slowly steamed, thick-cut ingredients form a warm salad with a fluffy texture.",
+    "type": "salad",
+    "image": "https://www.serebii.net/pokemonsleep/meals/scaldchunkysalad.png",
+    "ingredients": [
+      {
+        "ingredientId": "plump-pumpkin",
+        "name": "Plump Pumpkin",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/plumppumpkin.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 30,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 27,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "mixed-juice",
+    "name": "Mixed Juice",
+    "description": "",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/mixedjuice.png",
+    "ingredients": []
+  },
+  {
+    "id": "warm-moomoo-milk",
+    "name": "Warm Moomoo Milk",
+    "description": "Moomoo Milk that has been heated to further draw out its sweetness.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/warmmoomoomilk.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "fancy-apple-juice",
+    "name": "Fancy Apple Juice",
+    "description": "A rich juice containing only the very best apples.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/fancyapplejuice.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "craft-soda-pop",
+    "name": "Craft Soda Pop",
+    "description": "A highly carbonated artisan soda.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/craftsodapop.png",
+    "ingredients": [
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "lucky-chant-apple-pie",
+    "name": "\"Lucky Chant\" Apple Pie",
+    "description": "The chunky pieces of apple in this pie are lucky finds!",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/luckychantapplepie.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "fluffy-sweet-potatoes",
+    "name": "\"Fluffy\" Sweet Potatoes",
+    "description": "These perfectly ripe potatoes don't rely on honey to deliver a sweet kick.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/fluffysweetpotatoes.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "soft-potato",
+        "name": "Soft Potato",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/softpotato.png"
+      }
+    ]
+  },
+  {
+    "id": "ember-ginger-tea",
+    "name": "\"Ember\" Ginger Tea",
+    "description": "Apples have been added to the spicy ginger, helping the tea go down easily.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/embergingertea.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      }
+    ]
+  },
+  {
+    "id": "cloud-nine-soy-cake",
+    "name": "\"Cloud Nine\" Soy Cake",
+    "description": "A soy cake with a nice, light texture.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/cloudninesoycake.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      }
+    ]
+  },
+  {
+    "id": "stalwart-vegetable-juice",
+    "name": "\"Stalwart\" Vegetable Juice",
+    "description": "An easy-to-make juice with natural sweet and sour flavors.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/stalwartvegetablejuice.png",
+    "ingredients": [
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "big-malasada",
+    "name": "Big Malasada",
+    "description": "A special fried bread made using a recipe from the Alola region.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/bigmalasada.png",
+    "ingredients": [
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 6,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "hustle-protein-smoothie",
+    "name": "\"Hustle\" Protein Smoothie",
+    "description": "A glass of this sweet smoothie goes down a treat after a training session.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/hustleproteinsmoothie.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      }
+    ]
+  },
+  {
+    "id": "sweet-scent-chocolate-cake",
+    "name": "\"Sweet Scent\" Chocolate Cake",
+    "description": "Neither people nor Pokémon can resist the lure of this cake's sweet aroma.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/sweetscentchocolatecake.png",
+    "ingredients": [
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      }
+    ]
+  },
+  {
+    "id": "petal-dance-chocolate-tart",
+    "name": "\"Petal Dance\" Chocolate Tart",
+    "description": "A tricksy tart that scatters flower petals when you eat it.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/petaldancechocolatetart.png",
+    "ingredients": [
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "lovely-kiss-smoothie",
+    "name": "\"Lovely Kiss\" Smoothie",
+    "description": "A relaxing drink that soothes your weariness and envelops you in sleep.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/lovelykisssmoothie.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 8,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      }
+    ]
+  },
+  {
+    "id": "steadfast-ginger-cookies",
+    "name": "\"Steadfast\" Ginger Cookies",
+    "description": "These cookies give you the power to tackle hardships without crumbling.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/steadfastgingercookies.png",
+    "ingredients": [
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 5,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 4,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      }
+    ]
+  },
+  {
+    "id": "nerolis-restorative-tea",
+    "name": "Neroli's Restorative Tea",
+    "description": "A special restorative tea made by Professor Neroli.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/neroli'srestorativetea.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 11,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "tasty-mushroom",
+        "name": "Tasty Mushroom",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/tastymushroom.png"
+      }
+    ]
+  },
+  {
+    "id": "huge-power-soy-donuts",
+    "name": "\"Huge Power\" Soy Donuts",
+    "description": "Soy donuts fried to crisp perfection. They're bodybuilders' friends.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/hugepowersoydonuts.png",
+    "ingredients": [
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "greengrass-soybeans",
+        "name": "Greengrass Soybeans",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasssoybeans.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      }
+    ]
+  },
+  {
+    "id": "explosion-popcorn",
+    "name": "\"Explosion\" Popcorn",
+    "description": "Prepared in an instant with enough heat to cause an explosion.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/explosionpopcorn.png",
+    "ingredients": [
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 7,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "early-bird-coffee-jelly",
+    "name": "\"Early Bird\" Coffee Jelly",
+    "description": "This slightly bitter coffee jelly can help wake you up faster.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/earlybirdcoffeejelly.png",
+    "ingredients": [
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "mold-breaker-corn-tiramisu",
+    "name": "\"Mold Breaker\" Corn Tiramisu",
+    "description": "This tiramisu recipe defies precedent by relying on the sweetness of corn alone.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/moldbreakercorntiramisu.png",
+    "ingredients": [
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "jigglypuffs-fruity-flan",
+    "name": "Jigglypuff's Fruity Flan",
+    "description": "A very special flan that's as springy as a balloon.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/jigglypuff'sfruityflan.png",
+    "ingredients": [
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 15,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      }
+    ]
+  },
+  {
+    "id": "leaf-tornado-smoothie",
+    "name": "\"Leaf Tornado\" Smoothie",
+    "description": "This dish is full of nutrients thanks to the sun. It's perfect for breakfast too!",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/leaftornadosmoothie.png",
+    "ingredients": [
+      {
+        "ingredientId": "glossy-avocado",
+        "name": "Glossy Avocado",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/glossyavocado.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 16,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 14,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "teatime-corn-scones",
+    "name": "\"Teatime\" Corn Scones",
+    "description": "This flaky scone is most delicious when paired with an equal amount of apple ginger jam.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/teatimecornscones.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 9,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "flower-gift-macarons",
+    "name": "\"Flower Gift\" Macarons",
+    "description": "These macarons are perfect to give as a gift - they always make the recipient smile.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/flowergiftmacarons.png",
+    "ingredients": [
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 25,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 17,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 10,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      }
+    ]
+  },
+  {
+    "id": "zing-zap-spiced-cola",
+    "name": "\"Zing Zap\" Spiced Cola",
+    "description": "This cola's strong bite will jolt you awake!",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/zingzapspicedcola.png",
+    "ingredients": [
+      {
+        "ingredientId": "fancy-apple",
+        "name": "Fancy Apple",
+        "quantity": 35,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyapple.png"
+      },
+      {
+        "ingredientId": "warming-ginger",
+        "name": "Warming Ginger",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/warmingginger.png"
+      },
+      {
+        "ingredientId": "large-leek",
+        "name": "Large Leek",
+        "quantity": 20,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/largeleek.png"
+      },
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 12,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      }
+    ]
+  },
+  {
+    "id": "clodsire-eclair",
+    "name": "Clodsire Eclair",
+    "description": "A generously filled, bitter éclair with a cheery Clodsire design.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/clodsireeclair.png",
+    "ingredients": [
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 30,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      },
+      {
+        "ingredientId": "moomoo-milk",
+        "name": "Moomoo Milk",
+        "quantity": 26,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/moomoomilk.png"
+      },
+      {
+        "ingredientId": "rousing-coffee",
+        "name": "Rousing Coffee",
+        "quantity": 24,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/rousingcoffee.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 22,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      }
+    ]
+  },
+  {
+    "id": "scary-face-pancakes",
+    "name": "\"Scary Face\" Pancakes",
+    "description": "The sweetness from the vegetables is nice, but making eye contact with this dish will give you a fright.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/scaryfacepancakes.png",
+    "ingredients": [
+      {
+        "ingredientId": "plump-pumpkin",
+        "name": "Plump Pumpkin",
+        "quantity": 18,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/plumppumpkin.png"
+      },
+      {
+        "ingredientId": "fancy-egg",
+        "name": "Fancy Egg",
+        "quantity": 24,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/fancyegg.png"
+      },
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 32,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "snoozy-tomato",
+        "name": "Snoozy Tomato",
+        "quantity": 29,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/snoozytomato.png"
+      }
+    ]
+  },
+  {
+    "id": "honey-gather-chocolate-waffles",
+    "name": "\"Honey Gather\" Chocolate Waffles",
+    "description": "A sweet treat made with bitter batter mixed with cacao, covered in heaps of honey.",
+    "type": "dessert",
+    "image": "https://www.serebii.net/pokemonsleep/meals/honeygatherchocolatewaffles.png",
+    "ingredients": [
+      {
+        "ingredientId": "honey",
+        "name": "Honey",
+        "quantity": 38,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/honey.png"
+      },
+      {
+        "ingredientId": "greengrass-corn",
+        "name": "Greengrass Corn",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/greengrasscorn.png"
+      },
+      {
+        "ingredientId": "pure-oil",
+        "name": "Pure Oil",
+        "quantity": 28,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/pureoil.png"
+      },
+      {
+        "ingredientId": "soothing-cacao",
+        "name": "Soothing Cacao",
+        "quantity": 21,
+        "image": "https://www.serebii.net/pokemonsleep/ingredients/soothingcacao.png"
+      }
+    ]
+  }
+]
